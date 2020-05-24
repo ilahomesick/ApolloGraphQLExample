@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "007DED91-729E-48C5-99DA-E6B2A38E8A6C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36E29B78-FA5E-437D-A3DB-23602074B1FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApolloExample/SignUpViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "signUp(username:password:email:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36E29B78-FA5E-437D-A3DB-23602074B1FD - 2dcdf4d83d0f5fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;ApolloExample.SignUpMutation.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "36E29B78-FA5E-437D-A3DB-23602074B1FD - 2dcdf4d83d0f5fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;ApolloExample.SignUpMutation.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "36E29B78-FA5E-437D-A3DB-23602074B1FD - 2dcdf4d83d0f5fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;ApolloExample.SignUpMutation.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "669">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B16C5B76-CE6B-4E4B-8E79-D3013F41A9C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApolloExample/SignUpViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "signUp(username:password:email:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B16C5B76-CE6B-4E4B-8E79-D3013F41A9C2 - 137d92d748ca59dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "B16C5B76-CE6B-4E4B-8E79-D3013F41A9C2 - 2dcdf4d83d0f5fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;ApolloExample.SignUpMutation.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2D4B55C-5C85-409C-A50D-30309E7BC5E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApolloExample/SignUpViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "signUp(username:password:email:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D2D4B55C-5C85-409C-A50D-30309E7BC5E1 - 2dcdf4d83d0f5fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;ApolloExample.SignUpMutation.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "D2D4B55C-5C85-409C-A50D-30309E7BC5E1 - 2dcdf4d83d0f5fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;ApolloExample.SignUpMutation.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "D2D4B55C-5C85-409C-A50D-30309E7BC5E1 - 2dcdf4d83d0f5fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;ApolloExample.SignUpMutation.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "669">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB325EBC-FD25-48C1-9031-2DCF33C71C3A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApolloExample/SignUpViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "signUp(username:password:email:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB325EBC-FD25-48C1-9031-2DCF33C71C3A - 2dcdf4d83d0f5fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;ApolloExample.SignUpMutation.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "EB325EBC-FD25-48C1-9031-2DCF33C71C3A - 2dcdf4d83d0f5fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;ApolloExample.SignUpMutation.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "EB325EBC-FD25-48C1-9031-2DCF33C71C3A - 2dcdf4d83d0f5fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;ApolloExample.SignUpMutation.Data&gt;, Swift.Error&gt;) -&gt; () in ApolloExample.SignUpViewModel.signUp(username: Swift.String, password: Swift.String, email: Swift.String) -&gt; ()"
+                  moduleName = "ApolloExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilariosalatino/Desktop/ApolloExample/ApolloExample/SignUpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "669">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FB5AAF0-1664-4827-AEA5-3B32F0533879"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApolloExample/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "login(username:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

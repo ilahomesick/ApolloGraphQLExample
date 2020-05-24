@@ -3,19 +3,37 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		762442D424799C5A003D7865 /* mutations.graphql in Resources */ = {isa = PBXBuildFile; fileRef = 762442D224799C5A003D7865 /* mutations.graphql */; };
+		762442D524799C5A003D7865 /* schema.json in Resources */ = {isa = PBXBuildFile; fileRef = 762442D324799C5A003D7865 /* schema.json */; };
+		762442D824799EE1003D7865 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 762442D724799EE1003D7865 /* API.swift */; };
+		762442DA2479A1B0003D7865 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 762442D92479A1B0003D7865 /* SignUpView.swift */; };
+		762442DC2479A1DA003D7865 /* SignUpViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 762442DB2479A1DA003D7865 /* SignUpViewModel.swift */; };
+		762442DE2479A633003D7865 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 762442DD2479A633003D7865 /* Network.swift */; };
+		762442E02479ADAF003D7865 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 762442DF2479ADAF003D7865 /* LoginView.swift */; };
+		762442E2247A584F003D7865 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 762442E1247A584F003D7865 /* LoginViewModel.swift */; };
 		76C0C30B2473A86F00A9A717 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76C0C30A2473A86F00A9A717 /* AppDelegate.swift */; };
 		76C0C30D2473A86F00A9A717 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76C0C30C2473A86F00A9A717 /* SceneDelegate.swift */; };
 		76C0C30F2473A86F00A9A717 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76C0C30E2473A86F00A9A717 /* ContentView.swift */; };
 		76C0C3112473A87200A9A717 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76C0C3102473A87200A9A717 /* Assets.xcassets */; };
 		76C0C3142473A87200A9A717 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76C0C3132473A87200A9A717 /* Preview Assets.xcassets */; };
 		76C0C3172473A87200A9A717 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76C0C3152473A87200A9A717 /* LaunchScreen.storyboard */; };
+		B69333709A5111140269CDC2 /* Pods_ApolloExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB23F71C9900AAA429FC94BB /* Pods_ApolloExample.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		30222857DEFBA2E761ED18C0 /* Pods-ApolloExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ApolloExample.release.xcconfig"; path = "Target Support Files/Pods-ApolloExample/Pods-ApolloExample.release.xcconfig"; sourceTree = "<group>"; };
+		762442D224799C5A003D7865 /* mutations.graphql */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mutations.graphql; sourceTree = "<group>"; };
+		762442D324799C5A003D7865 /* schema.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = schema.json; sourceTree = "<group>"; };
+		762442D724799EE1003D7865 /* API.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		762442D92479A1B0003D7865 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		762442DB2479A1DA003D7865 /* SignUpViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewModel.swift; sourceTree = "<group>"; };
+		762442DD2479A633003D7865 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
+		762442DF2479ADAF003D7865 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		762442E1247A584F003D7865 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
 		76C0C3072473A86F00A9A717 /* ApolloExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApolloExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		76C0C30A2473A86F00A9A717 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		76C0C30C2473A86F00A9A717 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +42,8 @@
 		76C0C3132473A87200A9A717 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		76C0C3162473A87200A9A717 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		76C0C3182473A87200A9A717 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4002E38AB96F4B96903CFD7 /* Pods-ApolloExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ApolloExample.debug.xcconfig"; path = "Target Support Files/Pods-ApolloExample/Pods-ApolloExample.debug.xcconfig"; sourceTree = "<group>"; };
+		CB23F71C9900AAA429FC94BB /* Pods_ApolloExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ApolloExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +51,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B69333709A5111140269CDC2 /* Pods_ApolloExample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		36917360EBF75C3BE06A0403 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CB23F71C9900AAA429FC94BB /* Pods_ApolloExample.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		49B1C6086857561832140C16 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B4002E38AB96F4B96903CFD7 /* Pods-ApolloExample.debug.xcconfig */,
+				30222857DEFBA2E761ED18C0 /* Pods-ApolloExample.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		76C0C2FE2473A86F00A9A717 = {
 			isa = PBXGroup;
 			children = (
 				76C0C3092473A86F00A9A717 /* ApolloExample */,
 				76C0C3082473A86F00A9A717 /* Products */,
+				49B1C6086857561832140C16 /* Pods */,
+				36917360EBF75C3BE06A0403 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,6 +96,9 @@
 		76C0C3092473A86F00A9A717 /* ApolloExample */ = {
 			isa = PBXGroup;
 			children = (
+				762442D724799EE1003D7865 /* API.swift */,
+				762442D224799C5A003D7865 /* mutations.graphql */,
+				762442D324799C5A003D7865 /* schema.json */,
 				76C0C30A2473A86F00A9A717 /* AppDelegate.swift */,
 				76C0C30C2473A86F00A9A717 /* SceneDelegate.swift */,
 				76C0C30E2473A86F00A9A717 /* ContentView.swift */,
@@ -63,6 +106,11 @@
 				76C0C3152473A87200A9A717 /* LaunchScreen.storyboard */,
 				76C0C3182473A87200A9A717 /* Info.plist */,
 				76C0C3122473A87200A9A717 /* Preview Content */,
+				762442D92479A1B0003D7865 /* SignUpView.swift */,
+				762442DB2479A1DA003D7865 /* SignUpViewModel.swift */,
+				762442DD2479A633003D7865 /* Network.swift */,
+				762442DF2479ADAF003D7865 /* LoginView.swift */,
+				762442E1247A584F003D7865 /* LoginViewModel.swift */,
 			);
 			path = ApolloExample;
 			sourceTree = "<group>";
@@ -82,9 +130,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 76C0C31B2473A87200A9A717 /* Build configuration list for PBXNativeTarget "ApolloExample" */;
 			buildPhases = (
+				3A238BEFAF53406990C97A31 /* [CP] Check Pods Manifest.lock */,
+				762442D624799D5F003D7865 /* ShellScript */,
 				76C0C3032473A86F00A9A717 /* Sources */,
 				76C0C3042473A86F00A9A717 /* Frameworks */,
 				76C0C3052473A86F00A9A717 /* Resources */,
+				D6C69C928802AB65183470E9 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -134,12 +185,73 @@
 			buildActionMask = 2147483647;
 			files = (
 				76C0C3172473A87200A9A717 /* LaunchScreen.storyboard in Resources */,
+				762442D524799C5A003D7865 /* schema.json in Resources */,
 				76C0C3142473A87200A9A717 /* Preview Assets.xcassets in Resources */,
+				762442D424799C5A003D7865 /* mutations.graphql in Resources */,
 				76C0C3112473A87200A9A717 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3A238BEFAF53406990C97A31 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ApolloExample-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		762442D624799D5F003D7865 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 8;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+			shellPath = /bin/sh;
+			shellScript = "SCRIPT_PATH=\"${PODS_ROOT}/Apollo/scripts\"\ncd \"${SRCROOT}/${TARGET_NAME}\"\n\"${SCRIPT_PATH}\"/run-bundled-codegen.sh codegen:generate --target=swift --includes=./**/*.graphql --localSchemaFile=\"schema.json\" API.swift\n";
+		};
+		D6C69C928802AB65183470E9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ApolloExample/Pods-ApolloExample-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ApolloExample/Pods-ApolloExample-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ApolloExample/Pods-ApolloExample-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		76C0C3032473A86F00A9A717 /* Sources */ = {
@@ -147,8 +259,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				76C0C30B2473A86F00A9A717 /* AppDelegate.swift in Sources */,
+				762442DA2479A1B0003D7865 /* SignUpView.swift in Sources */,
 				76C0C30D2473A86F00A9A717 /* SceneDelegate.swift in Sources */,
+				762442D824799EE1003D7865 /* API.swift in Sources */,
+				762442DC2479A1DA003D7865 /* SignUpViewModel.swift in Sources */,
+				762442DE2479A633003D7865 /* Network.swift in Sources */,
+				762442E02479ADAF003D7865 /* LoginView.swift in Sources */,
 				76C0C30F2473A86F00A9A717 /* ContentView.swift in Sources */,
+				762442E2247A584F003D7865 /* LoginViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +400,7 @@
 		};
 		76C0C31C2473A87200A9A717 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B4002E38AB96F4B96903CFD7 /* Pods-ApolloExample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -302,6 +421,7 @@
 		};
 		76C0C31D2473A87200A9A717 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 30222857DEFBA2E761ED18C0 /* Pods-ApolloExample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
